@@ -1,6 +1,4 @@
 # genomeutils
-An R helper package for routine tasks in genome analysis
-
 
 This package provides a set of helper tools that allow automating some common tasks one encounters during routine genome analysis.
 
