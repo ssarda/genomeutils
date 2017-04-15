@@ -53,7 +53,7 @@ F-tests
 Significance of difference of means test      
 Significance of difference of variances test  
 Wilcoxon tests   
-KolmogorovâSmirnov test   
+Kolmogorov–Smirnov test   
 
 
 ## Maximum likelihood and Bayesian inference
