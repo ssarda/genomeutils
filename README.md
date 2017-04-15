@@ -22,7 +22,7 @@ Fetch the GC content of the sequence for a list of genes
 Perform Gene Ontology Enrichment analysis for a set of interesting genes      
    
 
-## Normalization and Factorization methods for gene matrices
+## Normalization and Factorization methods for gene read-count matrices
    
 Min max normalization   
 Row median/deviation normalization   
