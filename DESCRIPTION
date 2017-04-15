@@ -1,0 +1,16 @@
+Package: genomeutils
+Title: Utilities for Genome Analysis
+Version: 0.0.0.9000
+Authors@R: person("Shrutii", "Sarda", email = "shrutiisarda@gmail.com", role = c("aut", "cre"))
+Description: The package includes small helper functions for Fast reading and writing of data, matrix normalization, ML methods for classification with cross-validation, GWAS analysis etc.. Just so you dont have to repeat yourself often! 
+Depends: R (>= 3.3.2)
+License: Free?
+Encoding: UTF-8
+LazyData: true
+Imports: data.table, dplyr, kernlab, e1071, pROC, MASS, randomForest, magrittr, gplots, RColorBrewer, genefilter, doParallel, snpStats, biomaRt
+biocViews : limma, seqinr, Biostrings, topGO, org.Hs.eg.db, EnsDb.Hsapiens.v75, BSgenome.Hsapiens.UCSC.hg19, GenomicFeatures, BSgenome
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
