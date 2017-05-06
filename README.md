@@ -25,7 +25,7 @@ Perform Gene Ontology Enrichment analysis for a set of interesting genes
 Min max normalization   
 Row median/deviation normalization   
 Sample specific normalization  
-Upper Quartile Normalization
+Upper Quartile Normalization   
 Gene counts to expression in 'Counts per million': (CPM)  
 Gene counts to expression in 'Transcripts per million': (TPM)  
 Gene counts to expression in 'Relative Log Expression': (RLE) as used in DESeq     
